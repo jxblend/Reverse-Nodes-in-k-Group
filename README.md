@@ -8,6 +8,7 @@ k is a positive integer and is less than or equal to the length of the linked li
 Example input:
 
 2
+
 1 2 3 4 5 a
 
 Output:
